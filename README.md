@@ -1,0 +1,1 @@
+# kubernetes-v2.0-cluster-centos
