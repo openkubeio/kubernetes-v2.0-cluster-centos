@@ -1,0 +1,13 @@
+---
+- name: master.uat.openkube.io
+  box: centos/7
+  cpus: 2
+  memory: 2048
+  ip: 192.168.205.41
+  port: 10122
+- name: worker.uat.openkube.io
+  box: centos/7
+  cpus: 2
+  memory: 2024
+  ip: 192.168.205.42
+  port: 10122

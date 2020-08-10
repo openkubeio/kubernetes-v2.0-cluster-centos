@@ -9,6 +9,18 @@
 /test/tmp/
 /test/version_tmp/
 /tmp/
+/.certs
+
+
+
+**/*.log
+**/.vagrant
+data/
+instruction.txt
+**/certs/
+.vs/
+**/Readme.md
+
 
 # Used by dotenv library to load environment variables.
 # .env
